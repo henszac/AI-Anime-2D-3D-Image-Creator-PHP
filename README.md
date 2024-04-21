@@ -1,4 +1,4 @@
-# AI Realistic Image Creator 🤖 🖼️
+# AI 2D and 3D Anime Image Creator 🤖 🌸
 
 AI Anime 2D and 3D Image Creator is a tool to generate anime images using artificial intelligence.
 
@@ -36,4 +36,4 @@ Contact: **contact@henszac.com**
 
 # DISCLAIMER 📜
 
-**THIS APPLICATION ("AI Realistic Image Creator") HAS BEEN CREATED FOR EDUCATIONAL AND LEARNING PURPOSES AND SHOULD BE USED ETHICALLY AND RESPONSIBLY IN COMPLIANCE WITH ALL LAWS OF YOUR COUNTRY.**
+**THIS APPLICATION ("AI Anime 2D and 3D Image Creator") HAS BEEN CREATED FOR EDUCATIONAL AND LEARNING PURPOSES AND SHOULD BE USED ETHICALLY AND RESPONSIBLY IN COMPLIANCE WITH ALL LAWS OF YOUR COUNTRY.**
