@@ -23,6 +23,7 @@ AI Anime 2D and 3D Image Creator is a tool to generate anime style images using 
 ## Features 🚀
 
 + Anime style image generation.
++ Support for create adult images.
 + Generate to any size.
 + Download the generated image to .png format.
 + No installation required.
