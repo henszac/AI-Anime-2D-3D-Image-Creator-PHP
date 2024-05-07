@@ -15,7 +15,7 @@ AI Anime 2D and 3D Image Creator is a tool to generate anime style images using 
 
 ## Examples 🧪
 
-![created_image (27)](https://github.com/henszac/AI-Anime-Image-Creator/assets/166815874/9757d144-65aa-458b-81a6-453857a103b7)
+![created_image (27)](https://github.com/henszac/AI-Anime-Image-Creator/assets/166815874/9757d144-65aa-458b-81a6-453857a103b7).henszac
 
 ![created_image (26)](https://github.com/henszac/AI-Anime-Image-Creator/assets/166815874/6bd86271-8e30-436b-b68d-e66f73413265)
 
@@ -33,7 +33,7 @@ AI Anime 2D and 3D Image Creator is a tool to generate anime style images using 
 
 If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in PHP and includes information on how to configure it and how to configure the pretrained model or the API.
 
-Contact: **contact@henszac.com**
+Contact: **https://t.me/henszac** or **contact@henszac.com**
 
 # DISCLAIMER 📜
 
