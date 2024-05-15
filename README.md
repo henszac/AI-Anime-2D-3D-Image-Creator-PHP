@@ -1,6 +1,6 @@
 # AI 2D and 3D Anime Image Creator 🤖 🌸
 
-AI Anime 2D and 3D Image Creator is a tool to generate anime style images using artificial intelligence..
+AI Anime 2D and 3D Image Creator is a tool to generate anime style images using artificial intelligence.
 
 ![img](https://github.com/henszac/AI-Anime-Image-Creator/assets/166815874/b0f10509-d50c-4f6f-9b1c-1ff8b76327ea)
 
